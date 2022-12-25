@@ -1,0 +1,19 @@
+body {
+  background-color: #e5e8e8;
+  font-family: verdana;
+}
+
+h1 {
+  color: #556B2F;
+}
+
+h2 {
+  color: #556B2F;
+}
+
+textarea[name="key"] {
+  height: 15px;
+  width: 100px;
+  resize: none;
+  overflow-x: hidden;
+}
